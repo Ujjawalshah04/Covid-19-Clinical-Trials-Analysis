@@ -80,4 +80,4 @@ This project explores global clinical trials related to COVID-19. Using data ana
 
 ## 🙌 Acknowledgements
 
-Thanks to the Unified Mentor for 
+Thanks to Unified Mentor for providing the data that inspired this analysis.
