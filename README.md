@@ -72,11 +72,6 @@ This project explores global clinical trials related to COVID-19. Using data ana
 
 ---
 
-##  📊 Dashboard
-
-
-
----
 
 ## 🙌 Acknowledgements
 
